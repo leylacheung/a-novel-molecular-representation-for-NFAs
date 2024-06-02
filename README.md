@@ -1,7 +1,8 @@
 # **A Ring2Vec description method enables automatic feature extraction and highly accurate predictions of material properties in organic solar cells.**
 
 ### Author list
-![table1](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/f8b39c21-9b92-428e-9691-3c158d4860a7)
+![table1](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/5b9d5a58-65e7-494f-bdb6-cb99bf94b97b)
+
 
 ## Introduction
 
