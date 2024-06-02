@@ -11,7 +11,6 @@ Ring2vec aims to generate a compressive representation for NFAs by leveraging de
 Our molecular description framework consists of three sub-modules, namely, the Fin2Vec, MG2Vec, and Ring2Vec modules. The Fin2Vec and MG2Vec modules are based on algorithms similar to the previously reported Fingerprint and MG methods. Our innovation mainly lies in the Ring2Vec module, which, when combined with the Fin2Vec and MG2Vec, can yield significantly improved prediction performance. 
 
 ![overview](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/4cc28dd0-5ca5-476e-ba55-fec1e6674f28)
-
 This is overview of our framework! (a) Ring2Vec model. It starts by preprocessing the SMILES strings of molecules, extracting ring-based subunits with defined features, either in the form of single rings (radius 0) or combined double rings (radius 1). These ring-based representations are subsequently trained by a similar algorithm to Word2Vec, generating thousands of embeddings, similar to a vocabulary. (b) MG2Vec module. The molecule is processed through a GNN model to generate embeddings that effectively capture atom-level information. (c) we also use the Fin2Vec model to generate embeddings that represent fingerprint data. Lastly, by integrating the embeddings from Ring2Vec, MG2Vec, and Fin2Vec modules using the commonly used self-attention mechanism, we create a comprehensive representation of NFA molecules.
 
 
