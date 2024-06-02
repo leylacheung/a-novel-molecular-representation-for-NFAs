@@ -14,7 +14,7 @@ Our molecular description framework consists of three sub-modules, namely, the F
 This is overview of our framework! (a) Ring2Vec model. It starts by preprocessing the SMILES strings of molecules, extracting ring-based subunits with defined features, either in the form of single rings (radius 0) or combined double rings (radius 1). These ring-based representations are subsequently trained by a similar algorithm to Word2Vec, generating thousands of embeddings, similar to a vocabulary. (b) MG2Vec module. The molecule is processed through a GNN model to generate embeddings that effectively capture atom-level information. (c) we also use the Fin2Vec model to generate embeddings that represent fingerprint data. Lastly, by integrating the embeddings from Ring2Vec, MG2Vec, and Fin2Vec modules using the commonly used self-attention mechanism, we create a comprehensive representation of NFA molecules.
 
 
-In addition, we have also made a Figure to illustrate the overall process of our method. we hope that it is useful to help readers to understand our method.
+In addition, we have also made a figure to illustrate the overall process of our method. we hope that it is useful to help readers to understand our method.
 
 ![图片 1](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6c973d68-567a-4760-8b15-f45f5840cc7c)
 
