@@ -30,9 +30,10 @@ Predicting the properties of non-fullerene acceptors (NFAs), complex organic mol
 Results have been released!👏
 <img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/cc976805-ee5e-4856-bb78-5df3c14be644" alt="图片 2" width="600"/>
 
-<img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6cbec69c-dbb9-4808-8f7c-a7f428d5ac97" alt="figure2" width="600"/>
-
-![Eg](https://github.com/user-attachments/assets/d6279d96-4e3f-4de8-b349-b75da3eff12a)
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/d6279d96-4e3f-4de8-b349-b75da3eff12a" alt="Eg" width="400"/>
+  <img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6cbec69c-dbb9-4808-8f7c-a7f428d5ac97" alt="figure2" width="400"/>
+</div>
 
 
 ## Usage
