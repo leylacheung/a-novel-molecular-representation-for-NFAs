@@ -1,7 +1,7 @@
 # **A Ring2Vec description method enables accurate predictions of molecular properties in organic solar cells.**
 
 ### Author list
-![table1|300](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/5b9d5a58-65e7-494f-bdb6-cb99bf94b97b)
+<img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/5b9d5a58-65e7-494f-bdb6-cb99bf94b97b" alt="table1" width="400" height="200"/>
 
 ## Introduction
 
