@@ -32,8 +32,10 @@ Results have been released!👏
 
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6cbec69c-dbb9-4808-8f7c-a7f428d5ac97" alt="figure2" width="400"/>
-  <img src="https://github.com/user-attachments/assets/d6279d96-4e3f-4de8-b349-b75da3eff12a" alt="Eg" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1c7f41cb-f57d-4a59-b131-d9606e1f1a00" alt="Figure 3b" width="400"/>
+
 </div>
+
 
 
 ## Usage
