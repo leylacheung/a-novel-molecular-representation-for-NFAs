@@ -9,7 +9,8 @@ Ring2vec aims to generate a compressive representation for NFAs by leveraging de
 
 Our molecular description framework consists of three sub-modules, namely, the Fin2Vec, MG2Vec, and Ring2Vec modules. The Fin2Vec and MG2Vec modules are based on algorithms similar to the previously reported Fingerprint and MG methods. Our innovation mainly lies in the Ring2Vec module, which, when combined with the Fin2Vec and MG2Vec, can yield significantly improved prediction performance. 
 
-![overview](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/4cc28dd0-5ca5-476e-ba55-fec1e6674f28)
+<img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/4cc28dd0-5ca5-476e-ba55-fec1e6674f28" alt="overview" width="800"/>
+
 This is overview of our framework! (a) Ring2Vec model. It starts by preprocessing the SMILES strings of molecules, extracting ring-based subunits with defined features, either in the form of single rings (radius 0) or combined double rings (radius 1). These ring-based representations are subsequently trained by an algorithm to Word2Vec, generating thousands of embeddings, similar to a vocabulary. (b) MG2Vec module. The molecule is processed through a GNN model to generate embeddings that effectively capture atom-level information. (c) we also use the Fin2Vec model to generate embeddings that represent fingerprint data. Lastly, by integrating the embeddings from Ring2Vec, MG2Vec, and Fin2Vec modules using the commonly used self-attention mechanism, we create a comprehensive representation of NFA molecules.
 
 
@@ -31,10 +32,11 @@ Results have been released!👏
 <img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/cc976805-ee5e-4856-bb78-5df3c14be644" alt="图片 2" width="600"/>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6cbec69c-dbb9-4808-8f7c-a7f428d5ac97" alt="figure2" width="400"/>
-  <img src="https://github.com/user-attachments/assets/1c7f41cb-f57d-4a59-b131-d9606e1f1a00" alt="Figure 3b" width="400"/>
+  <img src="https://github.com/user-attachments/assets/2c9f3724-a4d2-4b8b-9716-b94f03ed7575" alt="Figure 3" width="500"/>
+  <img src="https://github.com/user-attachments/assets/1c7f41cb-f57d-4a59-b131-d9606e1f1a00" alt="Figure 3b" width="500"/>
 
 </div>
+
 
 
 
