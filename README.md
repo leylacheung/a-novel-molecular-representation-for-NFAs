@@ -3,7 +3,6 @@
 ### Author list
 ![table1](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/5b9d5a58-65e7-494f-bdb6-cb99bf94b97b)
 
-
 ## Introduction
 
 Ring2vec aims to generate a compressive representation for NFAs by leveraging deep learning and machine learning methods. 
