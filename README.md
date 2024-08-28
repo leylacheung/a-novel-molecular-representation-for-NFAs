@@ -32,6 +32,8 @@ Results have been released!👏
 
 <img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6cbec69c-dbb9-4808-8f7c-a7f428d5ac97" alt="figure2" width="600"/>
 
+![Eg](https://github.com/user-attachments/assets/d6279d96-4e3f-4de8-b349-b75da3eff12a)
+
 
 ## Usage
 We will soon release all the codes, data for Ring2vec. Please stay tuned! Thanks for your patience!
