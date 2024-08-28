@@ -16,8 +16,9 @@ This is overview of our framework! (a) Ring2Vec model. It starts by preprocessin
 
 In addition, we have also made a figure to illustrate the overall process of our method. we hope that it is useful to help readers to understand our method.
 
-<img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6c973d68-567a-4760-8b15-f45f5840cc7c" alt="图片 1" width="400"/>
-
+<div style="text-align: center;">
+    <img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6c973d68-567a-4760-8b15-f45f5840cc7c" alt="图片 1" width="400"/>
+</div>
 
 ## Abstract
 Predicting the properties of non-fullerene acceptors (NFAs), complex organic molecules used in organic solar cells (OSCs), poses a significant challenge. Some existing approaches primarily focus on atom-level information and may overlook high-level molecular features, including the subunits of NFAs. While other methods that effectively represent subunit information show improved prediction performance, they require labor-intensive data labeling and lack broad applicability. In this paper, we introduce an efficient molecular description method that extracts molecular information at both the atom and subunit levels. Importantly, our method ensures a comprehensive molecular representation while also automating feature extraction, rendering both effectiveness and efficiency. Inspired by Word2Vec algorithms in natural language processing (NLP), our Ring2Vec method treats the "rings" in organic molecules as analogous to "words" in sentences. Using our method, we achieve ultra-fast and remarkably accurate predictions of the energy levels of NFA molecules, with a minimal prediction error of merely 0.06 eV in predicting energy levels, markedly surpassing the performance of conventional computational chemistry methods. Furthermore, our method can potentially have broad applicability across various domains of molecular description and property prediction, owing to the versatility and efficiency of the Ring2Vec model.
