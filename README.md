@@ -28,9 +28,10 @@ Predicting the properties of non-fullerene acceptors (NFAs), complex organic mol
 
 ## Results
 Results have been released!👏
-![图片 2](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/cc976805-ee5e-4856-bb78-5df3c14be644)
+<img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/cc976805-ee5e-4856-bb78-5df3c14be644" alt="图片 2" width="600"/>
 
-![figure2](https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6cbec69c-dbb9-4808-8f7c-a7f428d5ac97)
+<img src="https://github.com/leylacheung/a-novel-molecular-representation-for-NFAs/assets/161421118/6cbec69c-dbb9-4808-8f7c-a7f428d5ac97" alt="figure2" width="600"/>
+
 
 ## Usage
 We will soon release all the codes, data for Ring2vec. Please stay tuned! Thanks for your patience!
